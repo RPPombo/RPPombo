@@ -23,3 +23,9 @@
 ---
 
 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/rodrigo-panisi-pombo-ba0a742b4) | Email: **panisirodrigo@gmail.com**
+
+---
+
+## 📊 Estatísticas
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPPombo&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPPombo&layout=compact&theme=dracula)
