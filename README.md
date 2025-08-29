@@ -16,7 +16,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- [Sistema de Previsão com ML](link-do-repo) → Previsão de temperatura baseada em sensores  
+- [Sistema de Previsão com ML](https://github.com/RPPombo/Sistema-de-Previsao-com-Machine-Learning) → Previsão preventiva de carros elétricos com Machine Learning  
 - [Digital Twin de Sistema Pneumático](https://github.com/RPPombo/Digital-Twin) → Gêmeo Digital de um sistema pneumático feito em equipe 
 - [Gerenciador de Tarefas](https://github.com/RPPombo/Gerenciador-de-Tarefas) → Programa com interface para gerenciamento de tarefas  
 
