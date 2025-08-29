@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tecnologias
-- Python (Pandas, NumPy, Scikit-learn, FastAPI)  
+- Python (Pandas, Tkinter, Scikit-learn, FastAPI)  
 - Arduino / ESP32 (C/C++)  
 - Automação e IoT  
 - Bancos de dados (OracleDB)  
