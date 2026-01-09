@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Rodrigo!
 
 💻 Desenvolvedor Python | IoT | Automação | Machine Learning  
-✍️ Cursando 3º ano de Engenharia da Computação na faculdade FIAP  
+✍️ Cursando 4º ano de Engenharia da Computação na faculdade FIAP  
 🚀 Atualmente explorando **projetos de sensores, automação e ciência de dados**  
 📚 Sempre aprendendo sobre **Inteligência Artificial, APIs e sistemas automatizados**
 
