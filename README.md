@@ -55,7 +55,3 @@ Sistema de previsão desenvolvido em **Python**, utilizando técnicas de **Machi
 - LinkedIn: https://www.linkedin.com/in/rodrigo-panisi-pombo-ba0a742b4  
 - Email: **panisirodrigo@gmail.com**
 
----
-
-## 📊 Estatísticas GitHub
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPPombo&show_icons=true&theme=dracula)
