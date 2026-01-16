@@ -1,29 +1,61 @@
-# 👋 Olá, eu sou Rodrigo!
+# 👋 Olá, eu sou o Rodrigo!
 
-💻 Desenvolvedor Python | IoT | Automação | Machine Learning  
-✍️ Cursando 4º ano de Engenharia da Computação na faculdade FIAP  
-🚀 Atualmente explorando **projetos de sensores, automação e ciência de dados**  
-📚 Sempre aprendendo sobre **Inteligência Artificial, APIs e sistemas automatizados**
+🎓 Estudante de Engenharia da Computação (FIAP)  
+🏭 Foco em **Indústria e Automação**, com interesse em sistemas físicos, sensoriamento e controle  
+🤖 Interesse em **Inteligência Artificial aplicada a sistemas industriais**  
+📚 Perfil proativo, com forte orientação a projetos práticos e aprendizado contínuo
 
 ---
 
-## 🔧 Tecnologias
-- Python (Pandas, Tkinter, Scikit-learn, Seaborn)  
-- Arduino / ESP32 (C/C++)  
-- Automação e IoT  
+## 🔧 Áreas de Atuação e Tecnologias
+
+**Automação e Sistemas Físicos**
+- Sensores e sistemas de aquisição de dados
+- Arduino e sistemas embarcados (C/C++)
+- Sistemas pneumáticos e lógica de controle
+- Conceitos de automação industrial
+
+**Programação**
+- C
+- Python (Pandas, Scikit-learn, Tkinter)
+
+**Inteligência Artificial**
+- Machine Learning aplicado à análise e previsão de dados
+- Integração de modelos de IA em sistemas computacionais
 
 ---
 
 ## 📌 Projetos em Destaque
-- [Sistema de Previsão com ML](https://github.com/RPPombo/Sistema-de-Previsao-com-Machine-Learning) → Previsão de preços de carros elétricos com Machine Learning  
-- [Digital Twin de Sistema Pneumático](https://github.com/RPPombo/Digital-Twin) → Gêmeo Digital de um sistema pneumático feito em equipe 
-- [Profile Vault](https://github.com/RPPombo/Profile-Vault) → Programa de gerenciamento de logins, de forma local com criptografia  
+
+### 🔹 Prensa Pneumática com Digital Twin (2025)
+🔗 https://aehtherworks.vercel.app  
+Projeto acadêmico de **automação industrial**, envolvendo um sistema pneumático integrado a um **Digital Twin** para visualização, validação e análise de funcionamento de processos físicos.
+
+### 🔹 Sistema de Previsão com Machine Learning
+🔗 https://github.com/RPPombo/Sistema-de-Previsao-com-Machine-Learning  
+Sistema de previsão desenvolvido em **Python**, utilizando técnicas de **Machine Learning** para análise de dados e apoio à tomada de decisão.
+
+> Outros projetos podem ser encontrados nos repositórios públicos do perfil.
 
 ---
 
-📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/rodrigo-panisi-pombo-ba0a742b4) | Email: **panisirodrigo@gmail.com**
+## 📚 Formação Acadêmica
+
+- Engenharia da Computação — FIAP (2023 – Atual)
+- Disciplinas relevantes:  
+  - Programação e Conceitos de PLDs  
+  - Conceitos e Programação de Inteligência Artificial  
+  - Sensores e Circuitos Digitais  
+  - Estruturas de Computadores  
 
 ---
 
-## 📊 Estatísticas
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/rodrigo-panisi-pombo-ba0a742b4  
+- Email: **panisirodrigo@gmail.com**
+
+---
+
+## 📊 Estatísticas GitHub
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPPombo&show_icons=true&theme=dracula)
