@@ -16,6 +16,7 @@
 - Conceitos de automação industrial
 
 **Programação**
+- C++
 - C
 - Python (Pandas, Scikit-learn, Tkinter)
 
