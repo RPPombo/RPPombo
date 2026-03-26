@@ -36,6 +36,10 @@ Projeto acadêmico de **automação industrial**, envolvendo um sistema pneumát
 🔗 https://github.com/RPPombo/Sistema-de-Previsao-com-Machine-Learning  
 Sistema de previsão desenvolvido em **Python**, utilizando técnicas de **Machine Learning** para análise de dados e apoio à tomada de decisão.
 
+### 🔹 Sistema de Cadastro Escolar
+🔗 https://github.com/RPPombo/Sistema-de-Cadastro  
+Sistema de cadastro desenvolvido em C, com a utilização de alocação dinâmica de memória e leitura de arquivos.
+
 > Outros projetos podem ser encontrados nos repositórios públicos do perfil.
 
 ---
